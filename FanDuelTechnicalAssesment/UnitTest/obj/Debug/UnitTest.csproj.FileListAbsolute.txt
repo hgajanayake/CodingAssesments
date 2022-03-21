@@ -1,0 +1,13 @@
+D:\Hasitha\Coding\DepthChart\FanDuel\UnitTest\bin\Debug\UnitTest.dll
+D:\Hasitha\Coding\DepthChart\FanDuel\UnitTest\bin\Debug\UnitTest.pdb
+D:\Hasitha\Coding\DepthChart\FanDuel\UnitTest\bin\Debug\FanDuel.dll
+D:\Hasitha\Coding\DepthChart\FanDuel\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Hasitha\Coding\DepthChart\FanDuel\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Hasitha\Coding\DepthChart\FanDuel\UnitTest\bin\Debug\FanDuel.pdb
+D:\Hasitha\Coding\DepthChart\FanDuel\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Hasitha\Coding\DepthChart\FanDuel\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Hasitha\Coding\DepthChart\FanDuel\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+D:\Hasitha\Coding\DepthChart\FanDuel\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\Hasitha\Coding\DepthChart\FanDuel\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+D:\Hasitha\Coding\DepthChart\FanDuel\UnitTest\obj\Debug\UnitTest.dll
+D:\Hasitha\Coding\DepthChart\FanDuel\UnitTest\obj\Debug\UnitTest.pdb

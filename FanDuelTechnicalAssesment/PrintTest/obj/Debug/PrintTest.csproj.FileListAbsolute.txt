@@ -1,0 +1,10 @@
+D:\Hasitha\Coding\DepthChart\FanDuel\PrintTest\bin\Debug\FanDuelPrintTest.exe.config
+D:\Hasitha\Coding\DepthChart\FanDuel\PrintTest\bin\Debug\FanDuelPrintTest.exe
+D:\Hasitha\Coding\DepthChart\FanDuel\PrintTest\bin\Debug\FanDuelPrintTest.pdb
+D:\Hasitha\Coding\DepthChart\FanDuel\PrintTest\bin\Debug\FanDuel.dll
+D:\Hasitha\Coding\DepthChart\FanDuel\PrintTest\bin\Debug\FanDuel.pdb
+D:\Hasitha\Coding\DepthChart\FanDuel\PrintTest\obj\Debug\PrintTest.csprojAssemblyReference.cache
+D:\Hasitha\Coding\DepthChart\FanDuel\PrintTest\obj\Debug\PrintTest.csproj.CoreCompileInputs.cache
+D:\Hasitha\Coding\DepthChart\FanDuel\PrintTest\obj\Debug\PrintTest.csproj.CopyComplete
+D:\Hasitha\Coding\DepthChart\FanDuel\PrintTest\obj\Debug\FanDuelPrintTest.exe
+D:\Hasitha\Coding\DepthChart\FanDuel\PrintTest\obj\Debug\FanDuelPrintTest.pdb
