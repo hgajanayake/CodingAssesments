@@ -1,6 +1,6 @@
 How to build and run the code:
 
-Please open the solution FanDuel.sln located inside the FanDuel folder with Microsoft Visual Studio (2019).
+Please open the solution FanDuel.sln with Microsoft Visual Studio (2019).
 There are three projects, FanDuel, UnitTest and PrintTest.
 Please build the solution first using the Build option in Visual Studio.
 
